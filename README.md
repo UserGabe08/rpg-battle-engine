@@ -1,3 +1,4 @@
+DOCUMENTAÇÃO FEITA COM USO DE IA
 # RPG Battle Engine
 
 Um motor de batalha no estilo clássico de RPG (inspirado em Pokémon) escrito puramente em Python, fornecendo tanto um executor em linha de comando quanto uma API REST.
